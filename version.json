@@ -1,1 +1,1 @@
-{"latest":"v3.2.2","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"49222e5048af21ff8bb7acfb6f9a2b60b4c289c640645352ebf1c7f9186a0738","notes":"Self-update fixes: byte-pump swap, retry, raw hosting, applied notice, toggle check."}
+{"latest":"v3.2.3","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"1ddc6e4d582cd61631243e7e5190d41979cf0e0a155b1226252e2de5599f6c36","notes":"Synced poll countdown across instances."}
