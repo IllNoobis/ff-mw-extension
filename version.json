@@ -1,1 +1,1 @@
-{"latest":"v3.2.3","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"1ddc6e4d582cd61631243e7e5190d41979cf0e0a155b1226252e2de5599f6c36","notes":"Synced poll countdown across instances."}
+{"latest":"v3.2.4","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"6b3c8e1176d77efbe19a7dbd675fbd62ec701919b41feaedb4ac3614987ea1f0","notes":"Starvation detector + instance-tagged logging."}
