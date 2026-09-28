@@ -1,1 +1,1 @@
-{"latest":"v3.2.4","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"6b3c8e1176d77efbe19a7dbd675fbd62ec701919b41feaedb4ac3614987ea1f0","notes":"Starvation detector + instance-tagged logging."}
+{"latest":"v3.2.5","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"43a55e7c2fa5b93c58a67f050519306658cd3523e42c3c197f2e194ecc77fd9d","notes":"Net-GEX label hides when snapshot is stale (>90s)."}
