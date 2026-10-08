@@ -1,1 +1,1 @@
-{"latest":"v3.2.5","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"43a55e7c2fa5b93c58a67f050519306658cd3523e42c3c197f2e194ecc77fd9d","notes":"Net-GEX label hides when snapshot is stale (>90s)."}
+{"latest":"v3.2.6","filename":"Freeflow.jar","url":"https://raw.githubusercontent.com/IllNoobis/ff-mw-extension/main/Freeflow.jar","sha256":"ac0356003eae8814ed41fdcd9c7581e0cbd17348410f5b2a1a045a63c12a6732","notes":"Removal lifecycle: destroy() hook + deactivate/destroy logging + chart attribution."}
